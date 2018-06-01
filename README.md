@@ -1,6 +1,10 @@
-![scorpion image](https://assets-cdn.github.com/images/icons/emoji/unicode/1f982.png?v8)
-
 # UPDATE DEPENDENCIES
+
+<a href="https://www.emojione.com/emoji/1f982">
+<img height="80" width="80" alt="scorpion" src="https://raw.githubusercontent.com/LeightonDarkins/update-dependencies/master/assets/scorpion.png" />
+</a>
+
+<hr />
 
 This is a collection of node scripts and a bash helper to update an npm project's dependencies to their latest posbbile version.
 
