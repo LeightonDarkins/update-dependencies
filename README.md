@@ -1,10 +1,11 @@
-# 🦂 
-# UPDATE NPM DEPENDENCIES
+![scorpion image](https://assets-cdn.github.com/images/icons/emoji/unicode/1f982.png?v8)
+
+# UPDATE DEPENDENCIES
 
 This is a collection of node scripts and a bash helper to update an npm project's dependencies to their latest posbbile version.
 
 ## Usage
-- "cd" to the root of one of the frontend projects
+- "cd" to the root of one of your npm projects
 - run `run.sh` from there i.e. `../path/to/script_archive/update_npm_dependencies/run.sh`
 
 ## Flow
