@@ -1,7 +1,7 @@
 <div align="center">
 <h1>UPDATE DEPENDENCIES</h1>
 <a href="https://www.emojione.com/emoji/1f982">
-<img height="80" width="80" alt="scorpion" src="https://raw.githubusercontent.com/LeightonDarkins/update-dependencies/master/assets/scorpion.png" />
+<img height="160" width="160" alt="scorpion" src="https://raw.githubusercontent.com/LeightonDarkins/update-dependencies/master/assets/scorpion.png" />
 </a>
 
 <p>This is a collection of node scripts and a bash helper to update an npm project's dependencies to their latest possible version.</p>
