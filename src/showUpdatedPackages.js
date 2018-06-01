@@ -38,4 +38,4 @@ console.log('\n')
 
 console.log(`🦂  ${dependencyCount} dependencies were updated\n`)
 
-// deleteFile(BACKUP_FILE)
+deleteFile(BACKUP_FILE)
